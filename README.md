@@ -1,5 +1,5 @@
 # BAFLineDP: Code Bilinear Attention Fusion Framework for Line-level Defect Prediction
-This paper has been accepted for inclusion in the SANER 2024.
+This paper has been accepted in proceedings of the 31st international conference on software analysis, evolution and reengineering (SANER 2024).
 
 ## Environment Setup
 ### Python Environment Setup
