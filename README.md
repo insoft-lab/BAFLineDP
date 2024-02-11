@@ -33,7 +33,7 @@ The following parameters are used to train our BAFLineDP model.
 ### Code Preprocessing
 Download the datasets from the [github_url](https://github.com/awsm-research/line-level-defect-prediction) and keep them in `datasets/original/`.
 
-Run the following command to prepare data for file-level model training. The output will be stored in `datasets/preprocessed_data/`.
+Run the following command to prepare data for model training. The output will be stored in `datasets/preprocessed_data/`.
 
 	python code_preprocessing.py
 
